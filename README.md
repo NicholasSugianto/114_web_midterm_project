@@ -1,4 +1,3 @@
-# ============================ README.md ============================
 # Tamkang Mini‑Event Hub
 
 A small, responsive event registration site for the **114 Web Programming Midterm**. It shows upcoming campus events as cards, lets users register with **real‑time validation**, tracks **remaining seats**, and stores registrations in **localStorage**. Includes **dark mode**, **search filter**, and an **export JSON** button.
