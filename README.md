@@ -6,7 +6,6 @@ A small, responsive event registration site for the **114 Web Programming Midter
 
 ## Group members
 - 林皓天 (Nicholas Sugianto)
-- [Your teammate]
 
 
 ## Tech stack
